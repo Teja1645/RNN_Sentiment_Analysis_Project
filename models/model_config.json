@@ -1,0 +1,8 @@
+{
+  "max_words": 10000,
+  "max_len": 100,
+  "test_accuracy": 0.6153846153846154,
+  "training_rows": 2184,
+  "test_rows": 546,
+  "seed": 42
+}

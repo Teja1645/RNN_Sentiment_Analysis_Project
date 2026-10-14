@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local environment and secrets
+.env
+.streamlit/secrets.toml
+
+# Editor and logs
+.vscode/
+*.log
+
+# Keep the small SQLite database, model artifacts, and data files tracked for deployment.
